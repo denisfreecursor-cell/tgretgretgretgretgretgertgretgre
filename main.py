@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Токен бота (замени на свой)
 BOT_TOKEN = "8377241959:AAFk-g4rR3I3HE_0XjMROWNF7oVgDcMaDIg"
-ADMIN_ID = [8316757207,]
+ADMIN_ID = 8316757207
 
 # Инициализация бота
 bot = Bot(token=BOT_TOKEN)
